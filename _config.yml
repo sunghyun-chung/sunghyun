@@ -8,11 +8,14 @@ url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
-header:
+header: Sunghyun (Danny) Chung
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Research
+    - name: Teaching
+    - name: Grants/Fundings
+    - name: Talks
     - name: Blog
 
 footer:
